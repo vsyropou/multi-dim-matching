@@ -5,5 +5,4 @@ a set of correlated data distributions to another set of correlated data
 distributions without the need to bin the relevant data distributions.
 More detals in doc/MultiDimMatching.pdf.
 
-The project is currently in alpha stage. In other words it is simply a 
-collection of files. A basic v0 is forsceen in the near future. 
+The code was quickly developed at the end of my phd thesis. It is more like proof of concept than a project, but still if you need somethign liek this then you will figure it out :-D
